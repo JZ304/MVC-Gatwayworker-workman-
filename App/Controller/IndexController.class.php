@@ -1,6 +1,4 @@
 <?php
-
-// require_once __DIR__.'/../../vendor/workerman/gatewayclient/Gateway.php';
 use GatewayClient\Gateway;
 
 class IndexController extends ServiceController
@@ -106,7 +104,7 @@ class IndexController extends ServiceController
 
 
     /*
-    * 身份验证
+    * 身份验证--
     */
     private function isSetLogin()
     {
