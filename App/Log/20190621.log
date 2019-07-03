@@ -1,0 +1,2 @@
+[ 2019-06-21 15:57:24 ][SQL]INSERT INTO areq_user (user_account,user_password,user_tel,created_at) VALUES ('13880614578','123456','10086','2019-06-21')
+[ 2019-06-21 15:58:26 ][SQL]INSERT INTO areg_user (user_account,user_password,user_tel,created_at) VALUES ('13880614578','123456','10086','2019-06-21')

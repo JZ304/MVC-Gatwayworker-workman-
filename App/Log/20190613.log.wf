@@ -1,0 +1,268 @@
+[ 2019-06-13 14:05:13 ][FATAL] debug_backtrace:array (
+  0 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\SinglePHP.class.php',
+    'line' => 535,
+    'function' => 'halt',
+    'args' => 
+    array (
+      0 => NULL,
+    ),
+  ),
+  1 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\SinglePHP.class.php',
+    'line' => 556,
+    'function' => '__construct',
+    'class' => 'DB',
+    'object' => 
+    DB::__set_state(array(
+       '_db' => false,
+       '_lastSql' => NULL,
+       '_rows' => NULL,
+       '_error' => NULL,
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+      0 => 
+      array (
+        'DB_HOST' => 'rm-wz9g46228ged61238.mysql.rds.aliyuncs.com',
+        'DB_PORT' => 3306,
+        'DB_USER' => 'rzthinkmore',
+        'DB_PWD' => 'RZ2015thinkmore',
+        'DB_NAME' => 'rzthinkmore',
+        'DB_CHARSET' => 'utf8mb4',
+      ),
+    ),
+  ),
+  2 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\SinglePHP.class.php',
+    'line' => 163,
+    'function' => 'getInstance',
+    'class' => 'DB',
+    'type' => '::',
+    'args' => 
+    array (
+      0 => 
+      array (
+        'DB_HOST' => 'rm-wz9g46228ged61238.mysql.rds.aliyuncs.com',
+        'DB_PORT' => 3306,
+        'DB_USER' => 'rzthinkmore',
+        'DB_PWD' => 'RZ2015thinkmore',
+        'DB_NAME' => 'rzthinkmore',
+        'DB_CHARSET' => 'utf8mb4',
+      ),
+    ),
+  ),
+  3 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\App\\Controller\\IndexController.class.php',
+    'line' => 18,
+    'function' => 'M',
+    'args' => 
+    array (
+    ),
+  ),
+  4 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\SinglePHP.class.php',
+    'line' => 289,
+    'function' => '_init',
+    'class' => 'IndexController',
+    'object' => 
+    IndexController::__set_state(array(
+       'db' => NULL,
+       'openid' => 'okgbxwTsVj0Y1noF_lUSoyCZokQ4',
+       'endTime' => NULL,
+       '_view' => 
+      View::__set_state(array(
+         '_tplDir' => '././App//View/',
+         '_viewPath' => NULL,
+         '_data' => 
+        array (
+        ),
+      )),
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+  5 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\SinglePHP.class.php',
+    'line' => 252,
+    'function' => '__construct',
+    'class' => 'Controller',
+    'object' => 
+    IndexController::__set_state(array(
+       'db' => NULL,
+       'openid' => 'okgbxwTsVj0Y1noF_lUSoyCZokQ4',
+       'endTime' => NULL,
+       '_view' => 
+      View::__set_state(array(
+         '_tplDir' => '././App//View/',
+         '_viewPath' => NULL,
+         '_data' => 
+        array (
+        ),
+      )),
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+  6 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\index.php',
+    'line' => 25,
+    'function' => 'run',
+    'class' => 'SinglePHP',
+    'object' => 
+    SinglePHP::__set_state(array(
+       'c' => 'Index',
+       'a' => 'Index',
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+)
+[ 2019-06-13 14:08:40 ][FATAL] debug_backtrace:array (
+  0 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\SinglePHP.class.php',
+    'line' => 535,
+    'function' => 'halt',
+    'args' => 
+    array (
+      0 => NULL,
+    ),
+  ),
+  1 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\SinglePHP.class.php',
+    'line' => 556,
+    'function' => '__construct',
+    'class' => 'DB',
+    'object' => 
+    DB::__set_state(array(
+       '_db' => false,
+       '_lastSql' => NULL,
+       '_rows' => NULL,
+       '_error' => NULL,
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+      0 => 
+      array (
+        'DB_HOST' => 'rm-wz9g46228ged61238.mysql.rds.aliyuncs.com',
+        'DB_PORT' => 3306,
+        'DB_USER' => 'rzthinkmore',
+        'DB_PWD' => 'RZ2015thinkmore',
+        'DB_NAME' => 'rzthinkmore',
+        'DB_CHARSET' => 'utf8mb4',
+      ),
+    ),
+  ),
+  2 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\SinglePHP.class.php',
+    'line' => 163,
+    'function' => 'getInstance',
+    'class' => 'DB',
+    'type' => '::',
+    'args' => 
+    array (
+      0 => 
+      array (
+        'DB_HOST' => 'rm-wz9g46228ged61238.mysql.rds.aliyuncs.com',
+        'DB_PORT' => 3306,
+        'DB_USER' => 'rzthinkmore',
+        'DB_PWD' => 'RZ2015thinkmore',
+        'DB_NAME' => 'rzthinkmore',
+        'DB_CHARSET' => 'utf8mb4',
+      ),
+    ),
+  ),
+  3 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\App\\Controller\\IndexController.class.php',
+    'line' => 27,
+    'function' => 'M',
+    'args' => 
+    array (
+    ),
+  ),
+  4 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\SinglePHP.class.php',
+    'line' => 289,
+    'function' => '_init',
+    'class' => 'IndexController',
+    'object' => 
+    IndexController::__set_state(array(
+       'db' => NULL,
+       'openid' => 'okgbxwTsVj0Y1noF_lUSoyCZokQ4',
+       'endTime' => NULL,
+       '_view' => 
+      View::__set_state(array(
+         '_tplDir' => '././App//View/',
+         '_viewPath' => NULL,
+         '_data' => 
+        array (
+        ),
+      )),
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+  5 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\SinglePHP.class.php',
+    'line' => 252,
+    'function' => '__construct',
+    'class' => 'Controller',
+    'object' => 
+    IndexController::__set_state(array(
+       'db' => NULL,
+       'openid' => 'okgbxwTsVj0Y1noF_lUSoyCZokQ4',
+       'endTime' => NULL,
+       '_view' => 
+      View::__set_state(array(
+         '_tplDir' => '././App//View/',
+         '_viewPath' => NULL,
+         '_data' => 
+        array (
+        ),
+      )),
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+  6 => 
+  array (
+    'file' => 'D:\\Visual-NMP-x64\\www\\ak190615\\index.php',
+    'line' => 25,
+    'function' => 'run',
+    'class' => 'SinglePHP',
+    'object' => 
+    SinglePHP::__set_state(array(
+       'c' => 'Index',
+       'a' => 'Index',
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+)

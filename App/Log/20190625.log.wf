@@ -1,0 +1,196 @@
+[ 2019-06-25 17:23:18 ][FATAL]方法href不存在 debug_backtrace:array (
+  0 => 
+  array (
+    'file' => '/var/www/chat/SinglePHP.class.php',
+    'line' => 254,
+    'function' => 'halt',
+    'args' => 
+    array (
+      0 => '方法href不存在',
+    ),
+  ),
+  1 => 
+  array (
+    'file' => '/var/www/chat/index.php',
+    'line' => 26,
+    'function' => 'run',
+    'class' => 'SinglePHP',
+    'object' => 
+    SinglePHP::__set_state(array(
+       'c' => 'Index',
+       'a' => 'href',
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+)
+[ 2019-06-25 17:36:07 ][FATAL]方法href不存在 debug_backtrace:array (
+  0 => 
+  array (
+    'file' => '/var/www/chat/SinglePHP.class.php',
+    'line' => 254,
+    'function' => 'halt',
+    'args' => 
+    array (
+      0 => '方法href不存在',
+    ),
+  ),
+  1 => 
+  array (
+    'file' => '/var/www/chat/index.php',
+    'line' => 26,
+    'function' => 'run',
+    'class' => 'SinglePHP',
+    'object' => 
+    SinglePHP::__set_state(array(
+       'c' => 'Index',
+       'a' => 'href',
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+)
+[ 2019-06-25 17:36:08 ][FATAL]方法href不存在 debug_backtrace:array (
+  0 => 
+  array (
+    'file' => '/var/www/chat/SinglePHP.class.php',
+    'line' => 254,
+    'function' => 'halt',
+    'args' => 
+    array (
+      0 => '方法href不存在',
+    ),
+  ),
+  1 => 
+  array (
+    'file' => '/var/www/chat/index.php',
+    'line' => 26,
+    'function' => 'run',
+    'class' => 'SinglePHP',
+    'object' => 
+    SinglePHP::__set_state(array(
+       'c' => 'Index',
+       'a' => 'href',
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+)
+[ 2019-06-25 17:36:10 ][FATAL]方法href不存在 debug_backtrace:array (
+  0 => 
+  array (
+    'file' => '/var/www/chat/SinglePHP.class.php',
+    'line' => 254,
+    'function' => 'halt',
+    'args' => 
+    array (
+      0 => '方法href不存在',
+    ),
+  ),
+  1 => 
+  array (
+    'file' => '/var/www/chat/index.php',
+    'line' => 26,
+    'function' => 'run',
+    'class' => 'SinglePHP',
+    'object' => 
+    SinglePHP::__set_state(array(
+       'c' => 'Index',
+       'a' => 'href',
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+)
+[ 2019-06-25 17:36:23 ][FATAL]方法href不存在 debug_backtrace:array (
+  0 => 
+  array (
+    'file' => '/var/www/chat/SinglePHP.class.php',
+    'line' => 254,
+    'function' => 'halt',
+    'args' => 
+    array (
+      0 => '方法href不存在',
+    ),
+  ),
+  1 => 
+  array (
+    'file' => '/var/www/chat/index.php',
+    'line' => 26,
+    'function' => 'run',
+    'class' => 'SinglePHP',
+    'object' => 
+    SinglePHP::__set_state(array(
+       'c' => 'Index',
+       'a' => 'href',
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+)
+[ 2019-06-25 17:36:41 ][FATAL]方法href不存在 debug_backtrace:array (
+  0 => 
+  array (
+    'file' => '/var/www/chat/SinglePHP.class.php',
+    'line' => 254,
+    'function' => 'halt',
+    'args' => 
+    array (
+      0 => '方法href不存在',
+    ),
+  ),
+  1 => 
+  array (
+    'file' => '/var/www/chat/index.php',
+    'line' => 26,
+    'function' => 'run',
+    'class' => 'SinglePHP',
+    'object' => 
+    SinglePHP::__set_state(array(
+       'c' => 'Index',
+       'a' => 'href',
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+)
+[ 2019-06-25 17:36:51 ][FATAL]方法href不存在 debug_backtrace:array (
+  0 => 
+  array (
+    'file' => '/var/www/chat/SinglePHP.class.php',
+    'line' => 254,
+    'function' => 'halt',
+    'args' => 
+    array (
+      0 => '方法href不存在',
+    ),
+  ),
+  1 => 
+  array (
+    'file' => '/var/www/chat/index.php',
+    'line' => 26,
+    'function' => 'run',
+    'class' => 'SinglePHP',
+    'object' => 
+    SinglePHP::__set_state(array(
+       'c' => 'Index',
+       'a' => 'href',
+    )),
+    'type' => '->',
+    'args' => 
+    array (
+    ),
+  ),
+)
